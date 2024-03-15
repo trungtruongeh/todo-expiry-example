@@ -1,6 +1,8 @@
 import Image from "next/image";
 
+// TODO [2023-12-11]: This is passed todo
 export default function Home() {
+  // TODO [2024-16-03]: This is a in-future todo
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
